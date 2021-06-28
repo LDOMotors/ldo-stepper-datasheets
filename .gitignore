@@ -1,0 +1,5 @@
+#Temporary files
+*.tmp
+*.bak
+*.dwl
+*.dwl2
